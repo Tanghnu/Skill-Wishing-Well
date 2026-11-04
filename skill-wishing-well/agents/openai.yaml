@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skill许愿池"
+  short_description: "从实际困扰主动定义目标，寻找、组合或构建可验证的技能并完成交付"
+  default_prompt: "使用 $skill-wishing-well 分析我的困扰，主动制定目标与验收标准，寻找合适能力，并在我的请求范围内完成方案或构建。"
+policy:
+  allow_implicit_invocation: true
